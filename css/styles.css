@@ -1,1 +1,32 @@
-@import url("https://fonts.googleapis.com/css?family=Catamaran:400,700|Grand+Hotel");
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Roboto+Mono&display=swap");
+/* Variables */
+:root {
+  --clr-primary-1: rgb(25, 10, 0);
+  --clr-primary-2: rgb(76, 31, 1);
+  --clr-primary-3: rgb(127, 52, 1);
+  --clr-primary-4: rgb(177, 73, 1);
+  --clr-primary-5: rgb(228, 94, 2);
+  --clr-primary-6: rgb(253, 119, 27);
+  --clr-primary-7: rgb(254, 149, 78);
+  --clr-primary-8: rgb(254, 180, 128);
+  --clr-primary-9: rgb(254, 210, 179);
+  --clr-primary-10: rgb(255, 240, 230);
+  --clr-grey-1: rgb(13, 13, 13);
+  --clr-grey-2: rgb(38, 38, 38);
+  --clr-grey-3: rgb(64, 64, 64);
+  --clr-grey-4: rgb(89, 89, 89);
+  --clr-grey-5: rgb(115, 115, 115);
+  --clr-grey-6: rgb(140, 140, 140);
+  --clr-grey-7: rgb(166, 166, 166);
+  --clr-grey-8: rgb(191, 191, 191);
+  --clr-grey-9: rgb(217, 217, 217);
+  --clr-grey-10: rgb(242, 242, 242);
+  --clr-white: #fff;
+  --clr-black: #000;
+  --ff-primary: "Playfair Display", serif;
+  --ff-secondary: "Roboto Mono", monospace;
+  --transition: all 0.3s linear;
+  --spacing: 0.25rem;
+  --radius: 0.5rem;
+}
