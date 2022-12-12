@@ -143,12 +143,6 @@ p {
   margin-bottom: 2rem;
   /* Animation */
 }
-.banner-btn {
-  outline: 0.125rem solid var(--clr-primary-8);
-  outline-offset: 0.25rem;
-  font-size: 1.25rem;
-  padding: 1rem 1.75rem;
-}
 /* Content Divider */
 .content-divider {
   height: 0.5rem;
