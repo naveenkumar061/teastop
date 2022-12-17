@@ -275,7 +275,7 @@ p {
 .products {
   background: var(--clr-grey-10);
 }
-.product-title {
+.products-title {
   text-align: center;
 }
 .products article {
