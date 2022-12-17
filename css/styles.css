@@ -45,6 +45,7 @@ body {
 }
 a {
   text-decoration: none;
+  color: var(--clr-black);
 }
 img {
   width: 100%;
@@ -301,4 +302,8 @@ p {
   .product {
     width: 33.3%;
   }
+}
+/* Contact */
+.contact {
+  background: var(--clr-grey-10);
 }
