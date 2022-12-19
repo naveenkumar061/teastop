@@ -140,6 +140,17 @@ p {
     padding: 4rem 1rem;
   }
 }
+/* Navbar */
+.nav-btn {
+  position: fixed;
+  top: 5%;
+  left: 5%;
+  font-size: 2.5rem;
+  color: var(--clr-primary-8);
+  z-index: 1;
+  cursor: pointer;
+  /* Animation */
+}
 /* Header */
 .header {
   min-height: 100vh;
@@ -261,6 +272,7 @@ p {
   max-width: 26rem;
   color: var(--clr-grey-5);
 }
+/* Using Floats */
 @media (min-width: 992px) {
   .about-img,
   .about-info {
@@ -290,6 +302,7 @@ p {
 .product-price {
   color: var(--clr-primary-8);
 }
+/* Using Floats */
 @media (min-width: 768px) {
   .product {
     float: left;
@@ -360,6 +373,7 @@ p {
   border-bottom-left-radius: var(--radius);
   border-bottom-right-radius: var(--radius);
 }
+/* Using Floats */
 @media (min-width: 768px) {
   .contact-form,
   .contact-info {
