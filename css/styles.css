@@ -160,9 +160,11 @@ p {
   background: var(--clr-grey-10);
   z-index: 2;
   box-shadow: 2px 0 2px rgba(0, 0, 0, 0.2);
-  /* Hide Navbar */
+  transform: translateX(-100%);
+  transition: var(--transition);
 }
 .showNav {
+  transform: translateX(0);
 }
 .navbar-header {
   text-align: right;
